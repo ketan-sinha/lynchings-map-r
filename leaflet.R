@@ -6,4 +6,4 @@ pal <- colorNumeric("viridis", NULL)
 
 leaflet() %>%
   addTiles() %>%
-  addMarkers(data = lynchings)
+  addMarkers(data = lynchings, clusterOptions = markerClusterOptions())
