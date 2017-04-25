@@ -10169,27 +10169,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1890,
-    "Month":"3",
-    "Day":"15",
-    "Name":"A.J. Stratton",
-    "County":"Bromfield or Bloomfield",
-    "State":"NE",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Murder",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -76.6037222,39.2381955 ]
     },
     "properties": {
@@ -31266,7 +31245,7 @@
     "Gender":"Male",
     "Age":"30",
     "Method of Death":"Hanged",
-    "Accusation":"Knowledge of a murder of a white man",
+    "Accusation":"Knowledge of a murder of a white man",
     "FIELD14":""
     }
   },
@@ -31287,7 +31266,7 @@
     "Gender":"Male",
     "Age":"16-17",
     "Method of Death":"Hanged",
-    "Accusation":"Knowledge of a murder of a white man",
+    "Accusation":"Knowledge of a murder of a white man",
     "FIELD14":""
     }
   },
@@ -32150,48 +32129,6 @@
     "Method of Death":"Hanged",
     "Accusation":"Murder",
     "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1896,
-    "Month":"1",
-    "Day":"15",
-    "Name":"Marina",
-    "County":"Fort Holmes",
-    "State":"OK",
-    "Race":"Native American",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Robbery and assaulting a woman",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1896,
-    "Month":"1",
-    "Day":"15",
-    "Name":"Thomas Foley (Wild Horse)",
-    "County":"Fort Holmes",
-    "State":"OK",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Robbery and assaulting a woman",
-    "FIELD14":""
     }
   },
   {
@@ -39968,48 +39905,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1895,
-    "Month":"10",
-    "Day":"27",
-    "Name":"Jim Umbra",
-    "County":"Hennessy",
-    "State":"OK",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Cattle thief",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1895,
-    "Month":"10",
-    "Day":"27",
-    "Name":"Mexican John",
-    "County":"Hennessy",
-    "State":"OK",
-    "Race":"Hispanic",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Cattle thief",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -98.1953221,33.8173224 ]
     },
     "properties": {
@@ -42251,27 +42146,6 @@
     "Method of Death":"Hanged",
     "Accusation":"Attempted murder of \"sweatheart\", murder of her aunt",
     "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1885,
-    "Month":"2",
-    "Day":"17",
-    "Name":"Calvin Pierce",
-    "County":"Hoodoo Diggins, Palouse River",
-    "State":"ID",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Murder",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
     }
   },
   {
@@ -54093,7 +53967,7 @@
     "Gender":"Male",
     "Age":"",
     "Method of Death":"Dragged behind an automobile",
-    "Accusation":"Wounding of two white men, brothers",
+    "Accusation":"Wounding of two white men, brothers",
     "FIELD14":""
     }
   },
@@ -54431,27 +54305,6 @@
     "Method of Death":"Hanged",
     "Accusation":"Attacking a white constable and shooting a negro",
     "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1899,
-    "Month":"10",
-    "Day":"26",
-    "Name":"Martin Severts",
-    "County":"Lituya Bay",
-    "State":"AK",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Murder",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
     }
   },
   {
@@ -57839,27 +57692,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1884,
-    "Month":"11",
-    "Day":"26",
-    "Name":"George Briscoe",
-    "County":"Magothy",
-    "State":"MD",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Shot, Hanged, Strangled",
-    "Accusation":"Robbery",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -82.345189,27.4799195 ]
     },
     "properties": {
@@ -59429,27 +59261,6 @@
     "Method of Death":"Hanged",
     "Accusation":"Murder of a white man, a state highway worker",
     "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1902,
-    "Month":"9",
-    "Day":"-",
-    "Name":"Alonzo Tucker",
-    "County":"Marshfield (Coos Bay)",
-    "State":"OR",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Shot, Hanged",
-    "Accusation":"Rape",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
     }
   },
   {
@@ -61655,27 +61466,6 @@
     "Method of Death":"Shot",
     "Accusation":"Race hatred",
     "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1913,
-    "Month":"4",
-    "Day":"5",
-    "Name":"J.C. Collins",
-    "County":"Mondak, Sheridan ",
-    "State":"MT",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Murder",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
     }
   },
   {
@@ -65861,48 +65651,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1895,
-    "Month":"4",
-    "Day":"-",
-    "Name":"Fred Chamberlain",
-    "County":"Near the mouth of the White River",
-    "State":"SD",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Cattle rustling",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1895,
-    "Month":"4",
-    "Day":"-",
-    "Name":"Jean Powell",
-    "County":"Near the mouth of the White River",
-    "State":"SD",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Cattle rustling",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -89.4609209,37.2208838 ]
     },
     "properties": {
@@ -67450,27 +67198,6 @@
     "Age":"65",
     "Method of Death":"Riddled with bullets",
     "Accusation":"Killing a 35 year-old white man, a planter",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1906,
-    "Month":"4",
-    "Day":"25",
-    "Name":"George",
-    "County":"Oakwood",
-    "State":"TX",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"17",
-    "Method of Death":"Hanged and riddled  with bullets",
-    "Accusation":"Entering room of white woman",
     "FIELD14":""
     }
   },
@@ -78033,7 +77760,7 @@
     "Gender":"Male",
     "Age":"",
     "Method of Death":"Unreported",
-    "Accusation":"Attempted criminal assault on a white married woman and a white unmarried woman.",
+    "Accusation":"Attempted criminal assault on a white married woman and a white unmarried woman.",
     "FIELD14":""
     }
   },
@@ -79841,27 +79568,6 @@
     "Method of Death":"Beaten, Stabbed, Dragged, Hanged, Mutilated",
     "Accusation":"Murder",
     "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"8",
-    "Day":"25",
-    "Name":"William H. \"Same Joe\" Harvey",
-    "County":"Salt Lake City",
-    "State":"UT",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Unknown",
-    "Accusation":"Murder of a police captain",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
     }
   },
   {
@@ -85748,27 +85454,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1886,
-    "Month":"12",
-    "Day":"-",
-    "Name":"Gus Kernwood",
-    "County":"Stinking Water Creek",
-    "State":"WY",
-    "Race":"Hispanic",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Horse theft, murder",
-    "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -80.2321313,36.4244396 ]
     },
     "properties": {
@@ -85994,27 +85679,6 @@
     "Method of Death":"Hanged",
     "Accusation":"Murder",
     "FIELD14":"NONALPHANUMERIC CHARACTERS"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1885,
-    "Month":"8",
-    "Day":"25",
-    "Name":"Ross Hallis",
-    "County":"Sturgis",
-    "State":"SD",
-    "Race":"Black",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Murder",
-    "FIELD14":""
     }
   },
   {
@@ -96787,216 +96451,6 @@
     "Age":"28",
     "Method of Death":"Trauma",
     "Accusation":"Attempting to break into a white woman's house",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Blondey",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Ed Enright",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Ohio Dan",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #1",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Shot",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #2",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #3",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #4",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #5",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #6",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
-    "FIELD14":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "Year":1883,
-    "Month":"1",
-    "Day":"-",
-    "Name":"Unknown #7",
-    "County":"Weeksville",
-    "State":"MT",
-    "Race":"White",
-    "Gender":"Male",
-    "Age":"",
-    "Method of Death":"Hanged",
-    "Accusation":"Gang of criminals",
     "FIELD14":""
     }
   },
