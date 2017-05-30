@@ -1,12 +1,10 @@
 library("tidyverse")
 library("leaflet")
 library("rgdal")
-
+library("shiny")
 
 shinyServer <- function(input, output, session){
   lynchings <- readOGR(dsn = "db/lynchings.geojson", layer = "OGRGeoJSON")
-  
-  pal <- colorNumeric("viridis", NULL)
   
   popup_content <- paste(sep = "",
                          "<b>",lynchings$Name,"</b>, <i>",lynchings$Gender,"</i></br>",
@@ -15,18 +13,21 @@ shinyServer <- function(input, output, session){
                          lynchings$Accusation,"</br>",
                          "Death: <i>",lynchings$Method.of.Death, "</i>")
   
-  lynchmap <- leaflet() %>%
+  output$lynchmap <- renderLeaflet({
+    leaflet() %>%
     addTiles() %>%
     addMarkers(data = lynchings, 
                clusterOptions = markerClusterOptions(), 
                popup = popup_content)
+  })
 }
 
 ui <- fluidPage(
-  titlePanel("title"),
+  titlePanel("LynchMap"),
+  
   sidebarLayout(
-    sidebarPanel("sidebar"),
-    mainPanel(lynchmap)
+    mainPanel(leafletOutput("lynchmap")),
+    sidebarPanel("sidebarpanel")
   )
 )
 
